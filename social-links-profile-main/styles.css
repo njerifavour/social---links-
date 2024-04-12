@@ -1,0 +1,62 @@
+.attribution { font-size: 20px; text-align: center;
+    background-color: rgb(60, 54, 65);
+    border-color: hsl(0, 59%, 41%);
+    margin-right: auto;
+    margin-left: auto;
+    padding: 8px;
+    margin-top: auto;
+    margin-bottom: auto;
+    display: block;
+    color: azure;
+         }
+  .attribution a { font: rgb(5, 192, 206);
+                
+                   }
+  .btn{
+  display: flex;
+  padding:14px;
+  justify-content: center;
+  width: 400px;
+  height: 50px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: grey;
+  border-radius: 10px;
+  font:rgb(84, 190, 35);
+  border-spacing: 30px;
+  margin-top: 20px;
+  text-emphasis-color: white;
+  color: white;
+  }
+ .rounded-image{
+  margin-left: 200px;
+  margin-right: auto;
+  border-radius:40px ;
+  width: 80px;
+  height:auto;
+  margin-bottom: auto ;
+  margin-top: auto;
+
+ }
+ .text{
+  color: rgb(217, 255, 0);
+  font-size: 18px;
+ }
+  .btn:hover {
+    background-color: yellow;
+    color: black;
+    font-size: 18px;
+  }
+  .container{
+  display: block;
+  max-width: 500px;
+  margin: 20px auto;
+  background-color:rgb(60, 54, 65);
+  padding: 20px;
+  border-radius: 15px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  height: 700px;
+  }
+  .body{
+    background-color: grey;
+  }
